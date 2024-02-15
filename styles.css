@@ -43,8 +43,8 @@ a
 
 a:hover
 {
-    /* color: gold; */
-    color: var(--brand-color);
+    color: gold; 
+    /*color: var(--brand-color);*/
     font-weight: 500;
 }
 
